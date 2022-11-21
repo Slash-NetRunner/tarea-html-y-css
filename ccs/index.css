@@ -37,6 +37,7 @@ width: 85vw;
 .navbar ul li{
     display:inline-block;
 }
+
 .navbar ul a {
     text-decoration: none;
     display: block;
@@ -58,3 +59,13 @@ width: 85vw;
     }
 
     .img {img-aling: center }
+
+ @media screen and (main- width: 0px ) and ( max - width: 700 px ) header {background-color: rgb(226, 43, 156);
+    margin-left: auto;
+    margin-right: auto;
+    }
+    body {
+        background-color: aqua rgb(238, 10, 10);
+     }
+    
+ 
